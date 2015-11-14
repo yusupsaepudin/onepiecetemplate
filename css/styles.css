@@ -1,0 +1,12 @@
+body {
+	width: 100%;
+	font-family: arial;
+	margin: auto;
+	background-color: #cbcaca;
+}
+
+#header {
+	border: 1px solid black;
+	height: 160px;
+	background-color: black;
+}
