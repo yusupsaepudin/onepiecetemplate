@@ -10,3 +10,23 @@ body {
 	height: 160px;
 	background-color: black;
 }
+
+#wrapper {
+	width: 700px;
+	border: 1px solid black;
+	height: auto;
+	margin: 0 auto;
+}
+
+#wrapper #main {
+	border: 1px solid black;
+	height: 300px;
+}
+
+#footer {
+  height: 40px;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 15px;
+}
+
